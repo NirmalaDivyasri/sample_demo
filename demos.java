@@ -1,4 +1,7 @@
 public class demos()
 {
-  int a=20
+  public static void main(String args[])
+  {
+    System.out.pritnln("Helloo");
   }
+}
