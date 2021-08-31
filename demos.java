@@ -1,4 +1,4 @@
-public class Demos()
+public class demos()
 {
  int a=10
 }
