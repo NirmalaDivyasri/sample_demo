@@ -2,7 +2,7 @@ public class Test()
 {
   public static void main(String args[])
   {
-    String a="apple";
+    int a=10;
     System.out.prinltln("Test file");
   }
 }
